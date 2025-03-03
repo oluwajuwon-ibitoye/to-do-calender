@@ -1,0 +1,18 @@
+  
+        h1{
+            text-align: center;
+        }
+        .fc .fc-row{
+            border-width: 5px;
+            border-radius: 10px;
+        }
+        .fc td, .fc th{
+            border-width: 7px;
+        }
+    .fc-event{
+    border-radius: 5px;
+}
+       .fc-unthemed .fc-content, .fc-unthemed .fc-divider, .fc-unthemed .fc-list-heading td, .fc-unthemed .fc-list-view, .fc-unthemed .fc-popover, .fc-unthemed .fc-row, .fc-unthemed tbody, .fc-unthemed td, .fc-unthemed th, .fc-unthemed thead {
+    border-color: #22c1c3;
+}
+    
